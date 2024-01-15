@@ -33,9 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hafsakanwal0&theme=gotham" alt="hafsakanwal0" /></p>
 
-[![hafsa's github stats](https://github-readme-stats.vercel.app/api?username=mhmzdev&theme=gotham)](https://github.com/mhmzdev/github-readme-stats)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsakanwal0&show_icons=true&locale=en&layout=compact" alt="hafsakanwal0" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafsakanwal0&theme=gotham" alt="hafsakanwal0" /></p>
 
 
